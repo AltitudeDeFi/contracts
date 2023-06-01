@@ -1,2 +1,1 @@
-# contracts
-Altitude contracts
+# Altitude contracts
