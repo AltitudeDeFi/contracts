@@ -10,4 +10,5 @@ Audited files:
 
 View report:
 
-- [ContractWolf Report](https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_AltitudeDEFI_Bridge.pdf)
+- [ContractWolf Report](https://contractwolf.io/projects/altitude-defi)
+- [ContractWolf PDF Report](https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_AltitudeDEFI_Bridge.pdf)
